@@ -1,0 +1,8 @@
+19:10:15.429 [main] DEBUG testcases.TC1 - initializing browser
+19:10:18.549 [main] INFO  testcases.TC1 - browser is opened successfully
+19:10:18.579 [main] DEBUG testcases.TC1 - opening website
+19:10:50.290 [main] INFO  testcases.TC1 - website opened successfully
+19:13:05.599 [main] DEBUG testcases.TC1 - initializing browser
+19:13:09.594 [main] INFO  testcases.TC1 - browser is opened successfully
+19:13:09.607 [main] DEBUG testcases.TC1 - opening website
+19:13:20.229 [main] INFO  testcases.TC1 - website opened successfully
