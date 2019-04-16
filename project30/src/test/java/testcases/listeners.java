@@ -12,8 +12,8 @@ public class listeners implements ITestListener{
 	base b = new base();
 
 	public void onTestStart(ITestResult result) {
-		// TODO Auto-generated method stub
-		
+		// TODO Auto-generated method 
+		String strrr = "sdsdfsd";
 	}
 
 	public void onTestSuccess(ITestResult result) {
